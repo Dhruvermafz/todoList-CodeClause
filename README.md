@@ -7,12 +7,6 @@
 
 This is a hands-on project from CodeClause Internship - by Dhruv Verma.
 
-# Demo
-
-<div align="center">
-  <img src="demo/demo.gif" />
-</div>
-
 # Features
 
 - A MERN (MongoDB + Express.js + React.js + Node.js) full stack project.
