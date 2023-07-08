@@ -1,21 +1,17 @@
 <div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/Hsins/udemy_MERN-Todo-List/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/udemy_MERN-Todo-List.svg" />
-  </a>
+
 </div>
 
-# Udemy Project: MERN Todo-List
+# MERN Todo-List
 
-This is a hands-on project from the Udemy course - [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) by Colt Steele. Refactored using the React-Redux in ES6/ES7 syntax instead of jQuery. You can find this jQuery version [here](https://github.com/Hsins/udemy_jQuery-Todo-List).
-  
+This is a hands-on project from CodeClause Internship - by Dhruv Verma.
+
 # Demo
 
 <div align="center">
   <img src="demo/demo.gif" />
 </div>
-
-You can see a complete working example [here](https://hsins-mern-todolist.herokuapp.com/). Or you can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
 
 # Features
 
@@ -52,11 +48,11 @@ DELETE    /api/todos/:id          Delete todo
 - [express](https://gulpjs.com/)
 - [mongodb](https://webpack.js.org/concepts/)
 
-Check [`package.json`](https://github.com/Hsins/udemy_MERN-Todo-List/blob/master/package.json) file for more information.
+Check [`package.json`](https://github.com/Dhruvermafz/todoList-CodeClause/blob/main/package.json) file for more information.
 
 # Getting Started
 
-Follow the instructions below to set up the environment and run this project on your local machine. Note that you should setup your MongoDB Atlas Cluster first to get your database. You can find the [Quick Note](https://hackmd.io/@Hsins/r1oFNI864) here.
+Follow the instructions below to set up the environment and run this project on your local machine. Note that you should setup your MongoDB Atlas Cluster first to get your database.
 
 1. Clone this repository.
 
@@ -88,10 +84,6 @@ $ cd ..
 $ npm run dev
 ```
 
-# More Information
-
-All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/syntax) (.md) format. You can find them in my [Udemy-Notes](https://github.com/Hsins/Udemy-Notes) repository. The note for this course is [here](https://hsins.github.io/Udemy-Notes/The%20Advanced%20Web%20Developer%20Bootcamp/).
-
 # License
 
-Licensed under the MIT License, Copyright © 2017-present Hsins.
+Licensed under the MIT License, Copyright © 2017-present Dhruv Verma.
